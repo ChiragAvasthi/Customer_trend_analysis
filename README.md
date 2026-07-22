@@ -50,7 +50,6 @@ Based on the data analysis, here are some of the strategic insights discovered:
 Below is a snapshot of the Power BI dashboard created for this project:
 
 ![Power BI Dashboard](dashboard.png)
-*(Note: Please ensure the dashboard image file is placed in the repository as `dashboard.png`)*
 
 ## 🛠️ How to Use This Project
 
@@ -71,9 +70,6 @@ Below is a snapshot of the Power BI dashboard created for this project:
    - Open **`customer_behavior_dashboard.pbix`**
    - Interact with the dashboard and visualizations.
 
-## 📜 License
-
-MIT — feel free to fork, star, and use in your portfolio.
 
 ## 👨‍💻 About the Author
 
